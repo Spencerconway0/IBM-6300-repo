@@ -1,0 +1,107 @@
+---
+title: "ITP-Shopify Store - Assignment 2 - Shopify Orientation and Admin Exploration"
+author: "Spencer Conway"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    code-tools: true
+    code-overflow: wrap
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute: 
+  freeze: auto
+  echo: false
+---
+
+## 
+
+# Store Name and Concept
+
+The name of my practice Shopify store is **Court Archive**. Court Archive is a basketball lifestyle and training store made for athletes who care about performance, preparation, and style. The store would sell basketball training products, recovery items, apparel, and accessories that support athletes both on and off the court.
+
+The idea behind Court Archive is to create a clean and modern online store for serious basketball players. Instead of only selling random sports products, the store would focus on items that fit the lifestyle of someone who trains consistently, wants to improve, and cares about how they present themselves.
+
+Court Archive would not process real payments or real transactions. It is a prototype store used for learning how to organize products, build a homepage, customize a Shopify theme, and think through the customer journey of an online retail store.
+
+> Court Archive is built around the idea that basketball is more than a sport. It is a lifestyle based on preparation, discipline, creativity, and identity.
+
+# Target Customer
+
+The target customer for Court Archive is a serious basketball player between the ages of about 14 and 28. This customer may be a high school athlete, college player, trainer, or someone who still plays competitively and wants products that support their training routine.
+
+This customer cares about performance, improvement, and personal style. They may follow basketball trainers, watch workout content online, buy basketball gear, and look for products that help them train harder, recover better, and look good off the court. Their shopping behavior is influenced by social media, athlete brands, training culture, and clean visual branding.
+
+::: callout-note
+## Target Customer Summary
+
+The main Court Archive customer is a motivated basketball player who wants training gear, recovery products, and lifestyle apparel that match their identity as an athlete.
+:::
+
+# Product Category Plan
+
+Court Archive would include the following product categories:
+
+| Product Category | Example Products | Retail Purpose |
+|------------------------|------------------------|------------------------|
+| Training Gear | Cones, resistance bands, tennis balls, weighted balls | Supports skill development and individual workouts |
+| Recovery Products | Foam rollers, massage balls, stretching straps, recovery kits | Helps athletes take care of their bodies between workouts |
+| Performance Accessories | Water bottles, towels, grip socks, shooting sleeves | Adds useful products that athletes need regularly |
+| Lifestyle Apparel | T-shirts, hoodies, shorts, hats | Builds the brand identity beyond just equipment |
+| Digital Training Resources | Workout guides, shooting plans, skill checklists | Creates a unique product category tied to basketball knowledge |
+
+## Training Gear
+
+Training gear would be the core category because the brand is focused on player development. These products would help athletes work on ball handling, footwork, shooting, and conditioning.
+
+## Recovery Products
+
+Recovery products would make sense because serious athletes need to take care of their bodies. This category also helps position the store as more complete than a basic sports store.
+
+## Lifestyle Apparel
+
+Lifestyle apparel would help Court Archive become a brand, not just a product store. Clean shirts, hoodies, and hats would allow customers to connect with the identity of the store.
+
+# Shopify Setup Evidence
+
+This section includes screenshots showing the initial Shopify setup process.
+
+## Shopify Admin Area
+
+The screenshot below shows the Shopify admin area for my practice store. This confirms that the store has been created and that I can access the main Shopify dashboard.
+
+![](images/clipboard-186416750.png)
+
+## Selected Theme
+
+The screenshot below shows the theme selected for the practice store.
+
+![](images/clipboard-1433332134.png)
+
+## Homepage Draft / Theme Customization Page
+
+The screenshot below shows the homepage draft or theme customization page.
+
+![](images/clipboard-3505913330.png)
+
+# Connection to CPP Farm Store
+
+Even though Court Archive is not a farm store, this Shopify setup still connects to the CPP Farm Store consulting project because it helps me think about product organization, homepage design, and customer experience. For both stores, the customer needs to quickly understand what is being sold, why it matters, and how to shop. Court Archive uses clear categories like training gear, recovery, accessories, and apparel, while CPP Farm Store could use a similar approach with produce, pantry items, plants, gifts, and seasonal bundles. Building this practice store helps me understand how Shopify can make a retail store easier to browse and more connected across online and offline channels.
+
+# Appendix
+
+## GitHub Page
+
+<https://github.com/Spencerconway0>
+
+GitHub Page
+
+## GitHub Repository
+
+<https://github.com/Spencerconway0/IBM-6300-OACP-repo>
+
+GitHub Repo
