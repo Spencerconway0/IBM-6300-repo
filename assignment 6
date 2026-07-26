@@ -1,1 +1,99 @@
 
+---
+title: "Assignment 6: Checkout, Policies, and Trust Signals"
+subtitle: "Court Archive"
+author: "Spencer Conway"
+date: "2026-07-25"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    smooth-scroll: true
+    link-external-newwindow: true
+execute:
+  echo: false
+---
+
+# Introduction
+
+Court Archive is a Shopify practice store built around basketball training, recovery, and lifestyle products. The store is designed for athletes who treat basketball as more than a hobby and want products that fit both their training routine and everyday lifestyle. This report reviews checkout-related settings and presents the policies and trust signals that would help customers feel more comfortable shopping online. Because this is a classroom practice store, no real payments or transactions were activated or processed.
+
+# Checkout Review Evidence
+
+I reviewed the checkout-related areas in Shopify, including checkout settings, payment options, shipping and delivery settings, and customer information requirements. I confirmed where a real retailer would connect a payment provider, choose the information collected during checkout, configure shipping rates, and manage delivery or pickup options. I did not activate a real payment method or place a real order.
+
+![](images/clipboard-3281784620.png)
+
+# Shipping and Delivery Information
+
+## Court Archive Shipping Policy
+
+Court Archive currently offers standard shipping within the United States. Orders would normally be processed within 1--2 business days and delivered approximately 3--7 business days after shipment. Estimated delivery times are not guaranteed and may be affected by carrier delays, holidays, weather, or an incorrect shipping address.
+
+A flat standard shipping rate of **\$5.99** is listed for orders under **\$75**, and standard shipping is free for orders of **\$75 or more**. Customers would receive an order confirmation and tracking information after an order ships. Court Archive does not currently offer local pickup or international shipping.
+
+Because Court Archive is a classroom practice store, these terms are drafted for demonstration purposes and no real orders will be fulfilled.
+
+![](images/clipboard-13583686.png)
+
+# Return and Refund Policy
+
+## Court Archive Return Policy
+
+Court Archive accepts return requests within **30 days** of delivery. To qualify for a return, an item must be unworn, unused, unwashed, and in its original condition with any tags or packaging included. A customer should use the store's contact form and provide the order number, item name, and reason for the return before sending an item back.
+
+Customers are responsible for return shipping unless an item arrived damaged, defective, or incorrect. Damaged or incorrect items should be reported within **7 days** of delivery and should include a photo of the issue. After an approved return is received and inspected, the refund would be issued to the original payment method. Original shipping charges are not refundable.
+
+Final-sale items, gift cards, personalized products, worn socks, and opened drinkware are not eligible for return. Exchanges depend on product availability. Because this is a classroom practice store, this policy is a draft and no real refunds will be processed.\
+\
+![](images/clipboard-1835007710.png)
+
+# Privacy and Customer Data Statement
+
+## Court Archive Privacy Statement
+
+Court Archive would collect only the information needed to operate the online store, such as a customer's name, email address, shipping address, billing information, order details, and messages submitted through the contact form. This information would be used to process orders, provide customer service, prevent fraud, communicate order updates, and improve the website experience.
+
+Customer information would not be sold. Information may be shared only with service providers needed to operate the store, such as Shopify, payment processors, shipping carriers, analytics providers, or other tools used to complete a transaction. Customers should avoid submitting sensitive personal information through the contact form.
+
+Because Court Archive is a classroom practice store, no real customer payments are being collected. Any future live version of the store should use Shopify's current privacy-policy template and clearly explain cookies, analytics, marketing communication choices, data retention, and customer privacy rights.\
+\
+![](images/clipboard-157105547.png)
+
+# Contact Information
+
+## Contact Court Archive
+
+Customers can contact Court Archive by using the contact form on the store's Contact page. The form should request the customer's name, email address, order number when applicable, and a brief description of the question or problem.
+
+**Customer-service response time:** Within 1--2 business days\
+**Support topics:** Product questions, sizing, shipping, returns, damaged items, and general store feedback\
+**Important note:** Customers should not submit payment-card numbers, passwords, or other sensitive information through the contact form.
+
+A clear contact option gives customers a place to ask questions before purchasing and a dependable way to get help after an order.
+
+![](images/clipboard-1666714872.png)
+
+#  Trust Signals Reflection
+
+Clear policies and store information can make Court Archive feel more professional and reduce the risk customers may feel when shopping from an unfamiliar brand. A customer can review shipping cost and timing before checkout, understand which products may be returned, see how their information would be used, and know how to contact the store if a problem occurs. These details make the buying process more predictable. Trust can be strengthened further by placing links to the shipping, return, privacy, and contact pages in the footer, using consistent branding, showing complete product descriptions and sizing information, displaying secure-checkout messaging, and avoiding surprise charges during checkout.
+
+# CPP Farm Store Application Reflection
+
+The most important trust signals for CPP Farm Store would be accurate product availability, clear pickup instructions, current store hours, the exact pickup location, accepted payment methods, and a dependable way to contact the store. Since many farm products are seasonal or perishable, customers should also know how substitutions, sold-out items, damaged produce, and refund requests are handled. Product descriptions should explain where items come from, how recently availability was updated, and whether refrigeration or quick pickup is recommended. Clear Cal Poly Pomona affiliation, consistent branding, secure checkout information, and visible food-handling or storage guidance would help customers feel confident that the store is legitimate, organized, and prepared to handle their order.
+
+# Conclusion
+
+Reviewing checkout settings showed that customer trust is influenced by more than the products being sold. Customers need to know what will happen during checkout, how and when an order will arrive, what their options are if something goes wrong, how their information is handled, and how to contact the business. Adding these policies and trust signals gives Court Archive a stronger and more complete customer experience while also showing what a real retailer would need before accepting online orders.
+
+# Appendix
+
+## Published Website
+
+[View the Assignment 6 website](https://spencerconway0.github.io/IBM-6300-repo/assign6/)
+
+## GitHub Repository
+
+[View the Assignment 6 project folder on GitHub](https://github.com/Spencerconway0/IBM-6300-repo/tree/main/assign6)
