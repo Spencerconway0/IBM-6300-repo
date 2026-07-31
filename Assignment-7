@@ -1,1 +1,60 @@
+---
+title: "Assignment 7: GA4 Setup and Shopify Integration"
+subtitle: "Court Archive"
+author: "Spencer Conway"
+date: "2026-07-31"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    theme: cosmo
+    link-external-newwindow: true
+---
 
+# Introduction
+
+The purpose of this assignment was to create a Google Analytics 4 property and connect it to the Court Archive Shopify practice store. Court Archive is a basketball lifestyle and training brand that offers athletic apparel, training gear, recovery essentials, and accessories. Connecting GA4 to Shopify creates an opportunity to track website traffic, customer behavior, product interest, traffic sources, and ecommerce activity.
+
+For this assignment, I successfully connected the Court Archive Shopify store to a GA4 property. At the time this report was completed, the connection was active, but data had not yet appeared in the GA4 reports.
+
+# GA4 Property and Web Stream Evidence
+
+I created or accessed a GA4 property for Court Archive and confirmed the web stream associated with the Shopify storefront. The web stream includes the Court Archive store URL and a GA4 measurement ID beginning with `G-`. This measurement ID identifies the data stream connected to the website.
+
+![](images/clipboard-3847843922.png)
+
+# Shopify Connection Evidence
+
+I connected the Court Archive Shopify store to Google Analytics 4 through Shopify's available Google Analytics integration. I used the same Google account associated with the Court Archive GA4 property and selected the correct property during the setup process. Shopify then displayed the GA4 property as connected.\
+![](images/clipboard-1854399047.png)
+
+# Analytics and Data Collection Evidence
+
+After connecting GA4, I reviewed the available analytics reports to check whether the integration had started collecting activity. The GA4 property was connected successfully, but no website data had appeared at the time the screenshots were taken.
+
+I opened the GA4 reporting area and reviewed the Realtime report or web-stream data collection status. The lack of visible data does not mean that the connection failed. It shows that the setup was completed, but the property had not yet received or processed activity when the report was documented.
+
+![](images/clipboard-2337430657.png)
+
+# Technical Issue Documentation
+
+The Court Archive Shopify store was successfully connected to the correct GA4 property, but no data was visible in the GA4 reports at the time of documentation. I confirmed that the Shopify integration showed the property as connected and checked that the GA4 web stream and measurement ID were associated with Court Archive.
+
+I also reviewed the GA4 Realtime report and the web-stream data collection area to look for incoming activity. However, no users, page views, or events had appeared yet. This may have been caused by a delay between completing the connection and the first activity becoming available in GA4. Since the integration itself showed a successful connection, I documented the connected status and the no-data screen as evidence of the completed setup and current analytics status.
+
+# CPP Farm Store Analytics Reflection
+
+CPP Farm Store could use GA4 and Shopify Analytics to understand how customers discover and interact with its online store. Traffic-source reports could show whether visitors arrive from Google Search, social media, email campaigns, the CPP website, or direct visits. The Farm Store could also measure which produce, seasonal products, pickup bundles, gifts, and informational pages receive the most views. Ecommerce events could reveal how often customers view products, add items to their carts, begin checkout, or leave before completing an order.
+
+This information could help CPP Farm Store improve its digital retail strategy. For example, the team could identify which products should be featured on the “Fresh This Week” page, determine which promotional channels bring the most useful traffic, and evaluate whether customers understand store hours and pickup instructions. Analytics could also support better product descriptions, simpler navigation, stronger seasonal promotions, and merchandising decisions based on actual customer behavior.
+
+# Conclusion
+
+This assignment provided practical experience creating a GA4 property, reviewing a web stream, and connecting Google Analytics to a Shopify store. The Court Archive Shopify store was successfully connected to the correct GA4 property. Although data had not yet appeared in the reports, the setup process demonstrated how an ecommerce retailer can prepare to monitor website traffic, product interest, customer behavior, and shopping activity.
+
+# Appendix
+
+-   [Published GitHub Pages Website](https://github.com/Spencerconway0/IBM-6300-repo/blob/main/Assignment-7)
+-   [GitHub Repository](https://github.com/Spencerconway0/IBM-6300-repo/tree/main)
